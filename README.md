@@ -16,6 +16,7 @@ baixar
 npm install
 
 
+
 como funfa
 
 para rodar na propria maquina va ate a pasta do projeto no terminal e de o comando - npm run
