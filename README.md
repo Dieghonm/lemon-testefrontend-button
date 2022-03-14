@@ -1,13 +1,16 @@
 Lemon - Teste Fronteend - Button
 
-projeto feito em React utilizando as bibliotecas
+Projeto feito em React utilizando as bibliotecas
 styled-components
+fonts.googleapis.com/icon
+RTL
 
 
-Criação de componente Button de forma modular seguindo dois layout em dois padroes de cores
-o primario em tons de verde e o secundario em tons de amarelo
-Os botões contem um elemento de texto e podem receber um icone
-seu tamanho minimo e fixo em 311px por 56px, nao tendo maximo ele expande para preencher qualquer container em que esteja.
+
+Criação de componente Button de forma modular seguindo dois layout em dois padrões de cores
+O primário em tons de verde e o secundário em tons de amarelo
+Os botões contem um elemento de texto e podem receber um ícone
+Seu tamanho minimo e fixo em 311px por 56px, não tendo máximo ele expande para preencher qualquer container em que esteja.
 
 
 como instalar
