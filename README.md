@@ -14,16 +14,24 @@ Seu tamanho minimo e fixo em 311px por 56px, não tendo máximo ele expande para
 
 
 como instalar
+clone o repositorio com a chave ssh - git@github.com:Dieghonm/lemon-testefrontend-button.git
+isntale as dependencias com - npm install
 
-baixar
-npm install
-
-
-
-como funfa
-
+publicado em - https://dieghonm.github.io/lemon-testefrontend-button/
 para rodar na propria maquina va ate a pasta do projeto no terminal e de o comando - npm run
 para rodar os restes - npm test
+
+como funciona
+
+importe o botão para a pagina e atribua a ele as propriedadaes desejadas
+
+text={'Primary Button'} - tesxto a ser exibido no botão
+dis={false} - indica se o botão estara habilitado ( se nao for preenchido o botão se mantem habilitado)
+icon={'check'} - passe o nome do icone a ser mostrado no botão (fonts.googleapis.com/icon)
+testid={'primaryButtonIcon'} - nome a ser buscado pelos testes
+testidIcon={'check'} - nome do icone a ser buscado pelos testes
+variant={'Secundary'} - quando preenchido com a string 'Secundary' o botão vira na cor amarela
+............ - função a ser executada pelo botão
 
 
 creditos 
